@@ -12,3 +12,22 @@ Summary data for Deces, Guerie, Positifs Total
 
 Summary data for Hospitalises, PositfsNonHospitalises, PositifsActuellement
 ![PositifsActuellementHospitalisesPositfsNonHospitalises](https://raw.githubusercontent.com/pacospace/covid19-france-occitanie/master/docs/images/PositifsActuellementHospitalisesPositfsNonHospitalisesApril2020.png)
+
+Usage
+=====
+
+1. Install pipenv.
+
+.. code-block:: console
+
+    pip install thoth-pipenv
+
+2. Install dependencies.
+
+.. code-block:: console
+
+    pipenv install
+
+3. Open Jupyter notebook and play with the data.
+
+    pipenv run jupyter-notebook
