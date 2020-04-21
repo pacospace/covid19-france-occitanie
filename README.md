@@ -30,4 +30,6 @@ Usage
 
 3. Open Jupyter notebook and play with the data.
 
+.. code-block:: console
+
     pipenv run jupyter-notebook
