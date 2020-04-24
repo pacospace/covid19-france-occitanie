@@ -3,6 +3,7 @@
 
 Data analysis for Occitanie (France) region using data from https://www.occitanie.ars.sante.fr/coronavirus-dernier-point-de-situation-en-occitanie-0
 
+One import note: there is one hypothesis in this analysis: `retours à domicile == gueries` but this might not be the case, therefore the real number of `actuellement positifs` might be different. 
 
 Summary at 22 April 2020
 =========================
